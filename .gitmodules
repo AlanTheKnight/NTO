@@ -1,0 +1,9 @@
+[submodule "2022-2023/ATS/NTO-ATS-leaderboard"]
+	path = 2022-2023/ATS/NTO-ATS-leaderboard
+	url = https://github.com/fm-projects/NTO-ATS-leaderboard
+[submodule "2022-2023/ATS/NTO-ATS-2023-II-tour"]
+	path = 2022-2023/ATS/NTO-ATS-2023-II-tour
+	url = https://github.com/fm-projects/NTO-ATS-2023-II-tour
+[submodule "2022-2023/NTO-AI-video-classification"]
+	path = 2022-2023/NTO-AI-video-classification
+	url = https://github.com/fm-projects/NTO-AI-video-classification
